@@ -1,0 +1,21 @@
+{
+  "name": "fizzbuzz_mutation_js",
+  "version": "0.1.0",
+  "description": "mutation study with jest, fizzbuzz example",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [
+    "jest",
+    "mutation",
+    "javascript"
+  ],
+  "author": "mganeko",
+  "license": "MIT",
+  "devDependencies": {
+    "@stryker-mutator/core": "^7.1.1",
+    "@stryker-mutator/jest-runner": "^7.1.1",
+    "jest": "^29.6.2"
+  }
+}
