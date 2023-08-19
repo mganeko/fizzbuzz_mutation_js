@@ -4,7 +4,8 @@
   "description": "mutation study with jest, fizzbuzz example",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
+    "test": "npx jest",
+    "mutation": "npx stryker run"
   },
   "keywords": [
     "jest",
